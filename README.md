@@ -12,8 +12,8 @@ Please have a look at the file: test_hmm.py to get the sample code.
 
 Example:
 
-# instantiate the HMM by passing the file name of the model, model is in JSON format
-# Sample model files are in the models subdirectory
+\# instantiate the HMM by passing the file name of the model, model is in JSON format
+\# Sample model files are in the models subdirectory
 model_file_name = r"./models/coins1.json"
 hmm = MyHmm(model_file_name)
 
