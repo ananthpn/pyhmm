@@ -1,0 +1,17 @@
+{
+    "hmm": 
+            {
+                "A": {
+                   "Coin 1" : {"Coin 1": 0.6, "Coin 2": 0.3, "Coin 3": 0.1},
+                   "Coin 2" : {"Coin 1": 0.2, "Coin 2": 0.5, "Coin 3": 0.3},
+                   "Coin 3" : {"Coin 1": 0.3, "Coin 2": 0.2, "Coin 3": 0.5}
+               },
+                "B": {
+                       "Coin 1" : {"Heads": 0.7, "Tails": 0.3},
+                       "Coin 2" : {"Heads": 0.3, "Tails": 0.7},
+                       "Coin 3" : {"Heads": 0.5, "Tails": 0.5}
+                },
+                "pi": {"Coin 1": 0.4, "Coin 2": 0.3, "Coin 3": 0.3}        
+            }
+        
+}
