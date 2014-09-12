@@ -1,4 +1,4 @@
-pyhmm
+MyHmm
 =====
 
 HMM Implementation in Python
